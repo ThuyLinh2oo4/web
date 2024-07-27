@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  color: #0c0c0c;
+  color: #131410;
   background-color: #ffffff;
 }
 .d127_44 { 
@@ -126,7 +126,7 @@ position: relative;
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../images/hero-bg.png);
+  background-image: url(../images/11.jpg);
   background-size: cover;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -327,7 +327,7 @@ input[type=submit]:hover {
 .hero_areaa {
   height: 100vh;
   position: relative;
-  background-color: #f6d768;
+  background-image: url(../images/12.jpg);
   background-size: cover;
   background-position: bottom right;
   background-repeat: no-repeat;
